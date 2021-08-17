@@ -1,0 +1,307 @@
+DrainageRegion,Station No,Place,CatchmentArea_km2,Latitude,Longitude
+A,A2H001,Krokodil River @ Hartbeespoort,2909,-25.73386,27.85969
+A,A2H002,Magalies River @ Hartbeespoort,1207,-25.74497,27.85158
+A,A2H003,Hex River @ Olifantspoort,495,-25.77944,27.26638
+A,A2H004,Plat River @ Roodepoort,137,-24.87002,28.26333
+A,A2H005,Hennops River @ Zwartkop,808,-25.82947,28.14
+A,A2H006,Pienaars River @ Klipdrift,1028,-25.38022,28.3165
+A,A2H007,Apies River @ Daspoort,142,-25.72888,28.16886
+A,A2H011,Apies River @ Bon Accord,308,-25.62558,28.19111
+A,A2H012,Krokodil River @ Kalkheuwel,2551,-25.81056,27.90983
+A,A2H013,Magalies River @ Scheerpoort,1171,-25.77703,27.76117
+A,A2H014,Hennops River @ Skurweberg,1007,-25.79828,27.98539
+A,A2H015,Krokodil River @ Buffelshoek,23940,-24.67313,27.3955
+A,A2H016,Sterkstroom River @ Buffelspoort,140,-25.75055,27.48608
+A,A2H017,Hex River @ Boschpoort,1071,-25.54336,27.35638
+A,A2H018,Krokodil River @ Donkerpoort,1070,-24.63452,27.31638
+A,A2H020,Elands River @ Bulhoek,4558,-25.31088,27.45719
+A,A2H021,Pienaars River @ Buffelspoort,7483,-25.12856,27.62858
+A,A2H022,Krokodil River @ Welgegund,2616,-25.79777,27.89552
+A,A2H023,Jukskei River @ Nietgedacht,686,-25.95444,27.96256
+A,A2H024,Brandvlei River @ Brandvlei,13,-26.151,27.59478
+A,A2H025,Krokodil River @ Hardekoolbult,21349,-24.93391,27.548
+A,A2H026,Apies River @ Hamanskraal,676,-25.40638,28.278
+A,A2H027,Pienaars River @ Baviaanspoort,357,-25.66361,28.35131
+A,A2H028,Hartbees Spruit @ Kameeldrift,161,-25.65136,28.31911
+A,A2H029,Edendale Spruit @ Leeuwfontein,129,-25.64711,28.39039
+A,A2H030,Roodeplaat Spruit @ Louwsbaken se Loop Roodeplaat,116,-25.60286,28.37517
+A,A2H031,Sand River @ Buffelspoort,1124,-25.13561,27.62719
+A,A2H032,Selons River @ Moedwil,522,-25.6375,27.02703
+A,A2H034,Skeerpoort River @ Scheerpoort,150,-25.82492,27.77181
+A,A2H035,Skeerpoort River @ Hartbeeshoek,98,-25.86805,27.783
+A,A2H036,Koster River @ Steenbokfontein,191,-25.72583,26.88442
+A,A2H037,Krokodil River @ Buffelshoek,23762,-24.66422,27.3755
+A,A2H038,Waterkloof-Lower @ Rietvallei,,-25.73486,27.21425
+A,A2H039,Waterkloof-Upper @ Rietvallei,,-25.72025,27.18556
+A,A2H040,Jukskei River @ Waterval,199,-26.03194,28.11188
+A,A2H041,Apies River @ Daspoort,142,-25.72886,28.16891
+A,A2H042,Jukskei River @ Lone Hill,409,-26.00583,28.03302
+A,A2H044,Jukskei River @ Vlakfontein,798,-25.8955,27.93481
+A,A2H045,Krokodil River @ Vlakfontein,653,-25.89275,27.91483
+A,A2H047,Little Jukskei River @ Klipfontein,65,-26.06831,27.97253
+A,A2H048,Krokodil River @ Krokodilpoort,4691,-25.57342,27.75411
+A,A2H049,Bloubank Spruit @ Riet Spruit Zwartkop,371,-25.97681,27.83639
+A,A2H050,Krokodil River @ Zwartkop,148,-25.99142,27.84211
+A,A2H051,Krokodil River @ Van Wyks Restant,109,-26.03303,27.84269
+A,A2H052,Krokodil River @ Krokodildrift,4355,-25.64613,27.78413
+A,A2H053,Sterkstroom @ Grootfontein,88,-25.80925,27.47603
+A,A2H054,Hartbees Spruit @ Wolmaranspoort,35,-25.68356,28.28661
+A,A2H055,Moretele River @ Derdepoort Pretoria,106,-25.69239,28.29314
+A,A2H056,Steenoond Spruit @ Belle Ombre Sta.,10,-25.73481,28.17925
+A,A2H058,Swart Spruit @ Rietfontein,107,-25.74819,27.90986
+A,A2H059,Krokodil River @ Vaalkop,12674,-25.20631,27.55794
+A,A2H060,Krokodil River @ Nooitgedacht,20627,-25.06303,27.52
+A,A2H061,Apies River @ Rondavel,625,-25.47086,28.26378
+A,A2H062,Walker Spruit @ Sunnyside Pretoria,8.1,-25.75897,28.21953
+A,A2H063,Wonderboom Spruit @ Mayville Pretoria,30,-25.70139,28.19161
+A,A2H064,Plat River @ Buffel Spruit,115,-24.83731,28.22628
+A,A2H065,Frisgewaag Spruit @ Buffel Spruit,43,-24.82933,28.22247
+A,A2H074,Magalies River @ Hartbeespoort,1207,-25.74497,27.85158
+A,A2H075,Hex River @ Olifantspoort,495,-25.77944,27.26638
+A,A2H076,Hennops River @ Zwartkop,808,-25.82947,28.14
+A,A2H077,Pienaars River @ Klipdrift,1028,-25.38119,28.31641
+A,A2H078,Krokodil River @ Kalkheuwel,2551,-25.80777,27.91025
+A,A2H079,Magalies River @ Scheerpoort,1171,-25.77666,27.76219
+A,A2H090,Hennops River @ Van Riebeeck Nat Res,451,-25.88555,28.30277
+A,A2H099,Buffels Spruit @ Roodepoort,137,-24.86064,28.25331
+A,A2H118,Hex River @ Boschpoort,,-25.56166,27.35108
+A,A2H119,Sterkstroom River @ Buffelspoort,140,-25.75055,27.48608
+A,A2H128,Faure Crocodile River,28780,-24.39619,27.08983
+A,A2H132,Krokodil River @ Haakdoringdrift,22270,-24.69508,27.409
+A,A3H001,Klein-Marico River @ Little-Maricopoort,1165,-25.53805,26.10355
+A,A3H007,Groot-Marico River @ Eerstepoort,8685,-24.86872,26.45408
+A,A3H008,Groot-Marico River @ Renosterfontein,1213,-25.48116,26.39297
+A,A3H016,Wilgeboom Spruit @ Wilgerboomspruit,39,-25.59775,26.30655
+A,A3H018,Malmanieloop @ Naauwpoort,,-25.81422,26.04913
+A,A3H027,Klein Marico River @ Little Maricopoort,1165,-25.53805,26.10355
+A,A4H001,Mokolo River @ Weltevrede,1606,-24.40649,28.10914
+A,A4H002,Mokolo River @ Zandrivier,1777,-24.28629,28.09553
+A,A4H003,Sterkstroom @ Doornspruit,519,-24.19123,27.94719
+A,A4H004,Matlabas River @ Haarlem East,1046,-24.16053,27.47969
+A,A4H005,Mokolo River @ Dwaalhoek,3786,-24.08066,27.77267
+A,A4H006,Poerseloop @ Weltevreden,477,-23.85958,27.79108
+A,A4H007,Tambotie River @ Blakeney,398,-23.76388,27.90899
+A,A4H008,Sterkstroom @ Doornspruit,504,-24.21681,27.9732
+A,A4H009,Witbank Spruit @ Hans Strijdom Natres,10,-23.96902,27.71635
+A,A4H014,Mogol River,8364,-23.23569,27.71696
+A,A5H001,Palala River @ Melk River,601,-23.99402,28.41221
+A,A5H002,Palala River @ Over Yssel,2303,-23.63404,28.15637
+A,A5H003,Limpopo River @ Botswana,98160,-22.95076,27.97358
+A,A5H004,Palala River @ Muisvogelkraal,629,-23.98181,28.39993
+A,A5H005,Palala River @ Hopetown,2331,-23.62099,28.14692
+A,A5H006,Limpopo River @ Botswana,98240,-22.93476,28.00392
+A,A6H001,Nyl River @ Moorddrift,2366,-24.27622,28.97517
+A,A6H002,Nyl River @ Deelkraal,738,-24.68286,28.6291
+A,A6H003,Sterk River @ Bellevue,1373,-23.9418,28.72999
+A,A6H004,Sterk River @ Paardedrift,513,-24.32261,28.6986
+A,A6H005,Sterk River @ Eckstein,1352,-23.97013,28.69666
+A,A6H006,Little Nyl River @ Nylstroom,168,-24.69872,28.40692
+A,A6H007,Mogalakwena River @ Steilloop,9487,-23.43711,28.62444
+A,A6H008,Sterk River @ Doorndraai,579,-24.27983,28.77888
+A,A6H009,Mogalakwena River @ Leniesrus,14733,-22.59801,28.88611
+A,A6H010,Badseloop River @ Vischgat,70,-24.57398,28.63953
+A,A6H011,Great-Nyl River @ Modderpoort,73,-24.76184,28.34443
+A,A6H012,Olifant Spruit @ Olifantspoort,120,-24.66548,28.4761
+A,A6H013,Groundwater Supplement from Nyl Riv. @ Du Toitskra,,-24.56731,28.7636
+A,A6H015,Groundwater Supplement from Nyl Riv. @ De Hoop,,-24.44038,28.90305
+A,A6H018,Rasloop River @ Sussensvale,12,-24.77086,28.3488
+A,A6H019,Hessie se Water @ Rietspruit,16,-24.65973,28.45079
+A,A6H020,Middelfontein Spruit @ Middelfontein,43,-24.67111,28.56061
+A,A6H021,De Wet Spruit @ Groenvaley,16,-24.63301,28.59731
+A,A6H022,Hartebeestlaagte Spruit @ Hartebeestlaagte,1.7,-24.60203,28.60749
+A,A6H023,Tobias Spruit @ Saratoga,130,-24.45783,28.74927
+A,A6H024,Kootjie se Loop Spruit @ Waterval,23,-24.31658,28.91629
+A,A6H026,Haaskloof Spruit @ Haaskloof,41,-24.37705,28.53026
+A,A6H033,Nyl River @ Moorddrift,2404,-24.24105,28.97657
+A,A6H035,Mogalakwena River @ Leniesrus,15845,-22.55021,28.8974
+A,A6H036,Sterk River @ Appingen Dam,1363,-23.98141,28.69562
+A,A6H037,Nyl River @ Vogelfontein,1363,-24.61525,28.6903
+A,A6H038,Nyl River @ Du Toits Kraal,,-24.56631,28.76352
+A,A6H039,Nyl River @ Middelfontein,,-24.69851,28.54809
+A,A7H001,Sand River @ Waterpoort,7703,-22.9091,29.61391
+A,A7H002,Brak River @ Kaalplaats,1868,-22.95076,29.24723
+A,A7H003,Sand River @ Zamenkomst,6700,-23.06742,29.57891
+A,A7H004,Limpopo River @ Beit Bridge,202975,-22.2247,29.98698
+A,A7H006,Sand River @ Zamenkomst,6700,-23.06742,29.57891
+A,A7H007,Sand River @ Pietersburg,522,-23.88294,29.43149
+A,A7H008,Limpopo River @ Beit Bridge,202985,-22.22718,29.99035
+A,A7H009,Sand River @ Dorothy,12873,-22.49135,29.98309
+A,A7H010,Sand River @ Waterpoort,7712,-22.91019,29.61103
+A,A8H001,Nzhelele River @ Kondoa,543,-22.79299,30.07031
+A,A8H002,Mutamba River @ Bekaf,490,-22.80633,29.88892
+A,A8H003,Mutamba River @ Prince's Hill,132,-22.86743,29.79975
+A,A8H004,Nzhelele River @ Schuitdrift,855,-22.68411,30.09559
+A,A8H005,Mutamba River @ King's Kloof,128,-22.88688,29.79669
+A,A9H001,Luvuvhu River @ Weltevreden,902,-23.11242,30.38949
+A,A9H002,Mutshindudi River @ Chibase,96,-22.90799,30.5281
+A,A9H003,Tshinane River @ Chibase,62,-22.89814,30.52378
+A,A9H004,Mutale River @ Tengwe,320,-22.77105,30.53894
+A,A9H005,Luvuvhu River @ Nooitgedacht,611,-23.08563,30.17533
+A,A9H006,Livhungwa River @ Barotta,16,-23.03572,30.27748
+A,A9H007,Latonanda River @ Levubu Settlement,47,-23.05575,30.24476
+A,A9H012,Luvuvhu River @ Mhinga,1758,-22.76851,30.88925
+A,A9H013,Mutale River @ Kruger National Park,1776,-22.43773,31.07783
+A,A9H024,Mutshindudi River @ Chibase Sibasa,51,-22.94882,30.35615
+A,A9H025,Mutshindudi River @ Vredenburg,387,-22.8541,30.68616
+A,A9H027,Latonanda @ Levubu Settlement,46,-23.05249,30.23934
+A,A9H028,Luvuvhu @ Nooitgedacht,607,-23.08645,30.17487
+A,A9H029,Mutale River @ Mutale Pump Station,329,-22.77266,30.5364
+B,B1H001,Olifants River @ Mooifontein,3904.4,-25.80918,29.31945
+B,B1H002,Spookspruit @ Elandspruit,252,-25.819,29.33775
+B,B1H003,Little Olifants River @ Rondebosch,1576,-25.7739,29.54251
+B,B1H004,Klipspruit @ Zaaihoek,376,-25.67363,29.17322
+B,B1H005,Olifants River @ Wolwekrans,3256,-26.00655,29.25402
+B,B1H012,Little Olifants River @ Rondebosch,1503,-25.80862,29.5864
+B,B1H017,Steenkoolspruit @ Aangewys,387,-26.3063,29.27494
+B,B1H018,Olifants River @ Middelkraal,985,-26.21702,29.45858
+B,B1H019,Noupoortspruit @ Naauwpoort,88.1,-25.94105,29.25791
+B,B1H020,Koringspruit @ Vaalkranz,133,-26.10566,29.33077
+B,B1H021,Steenkoolspruit @ Middeldrift,1356.3,-26.13636,29.26977
+B,B1H022,Trichardtspruit @ Trichardsfontein,12,-26.49435,29.23903
+B,B1H032,Blesbokspruit @ Blesboklaagte,,-25.82013,29.20825
+B,B2H001,Bronkhorst Spruit @ Roodepoort,1580,-25.79251,28.75527
+B,B2H003,Bronkhorstspruit @ Bronkhorstspruit,1574,-25.79916,28.73591
+B,B2H004,Osspruit @ Boschkop,123,-25.92461,28.58588
+B,B2H005,Os Spruit @ Knoppiesfontein,16,-25.99416,28.5122
+B,B2H006,Osspruit @ Witpoort,54,-25.96766,28.5505
+B,B2H007,Koffiespruit @ Waaikraal,317,-25.99541,28.6635
+B,B2H008,Koffiespruit Tributary @ Rietvallei,100,-26.07905,28.56286
+B,B2H009,Koffie Spruit @ Olifantsfontein,86,-26.09221,28.60332
+B,B2H013,Bronkhorst Spruit @ Roodepoort,1580,-25.79251,28.75527
+B,B2H014,Wilge River @ Onverwacht,1086,-25.82586,28.87941
+B,B2H015,Wilge River @ Zusterstroom,3908,-25.6163,29.01516
+B,B2H016,Wilger River @ Waterval,4293,-25.57877,29.12747
+B,B3H001,Olifants River @ Loskop Noord,16553,-24.9265,29.3895
+B,B3H002,Elands River @ Rust De Winter,1206,-25.20949,28.56887
+B,B3H003,Elands River @ Kameel River,1050,-25.26282,28.4672
+B,B3H004,Elands River @ Loskop Noord,6133,-24.88535,29.35723
+B,B3H005,Moses River @ Mosesriviermond,1673,-24.99118,29.35112
+B,B3H006,Diepkloof Spruit @ Diepkloof,244,-25.15422,29.49724
+B,B3H007,Moses River @ Uitspanning,971,-25.27225,29.18069
+B,B3H008,Elands River @ Weltevreden,4083,-25.11506,28.99722
+B,B3H021,Elands River @ Skerp Arabie,6119,-24.92647,29.32338
+B,B3H025,Loskop Noord,16447,-24.95861,29.39527
+B,B3H026,Eagle's Flight,16421,-24.98036,29.37597
+B,B4H002,Steelpoort River @ Apiesboomen,4411,-24.66592,30.29365
+B,B4H003,Steelpoort River @ Buffelskloof,2249,-25.02911,29.8558
+B,B4H005,Waterval River @ Modderspruit,188,-25.03594,30.21941
+B,B4H007,Klein-Spekboom River @ Potloodspruit,151,-25.00938,30.50019
+B,B4H009,Dwars River @ Dwars River,448,-24.91205,30.10327
+B,B4H010,Dorps River @ Lydenburg Nat Res,526,-25.07513,30.43908
+B,B4H024,Steelpoort River @ De Hoop Upper,,-25.06676,29.83338
+B,B4H025,Steelpoort River @ Taung,,-24.48338,30.40027
+B,B5H002,Olifants River @ Zeekoegat,31416,-24.26817,29.80113
+B,B5L006,Veekraal,,-23.90403,29.88642
+B,B6H001,Blyde River @ Willemsoord,518,-24.68025,30.80213
+B,B6H002,Treur River @ Willemsoord,97,-24.68231,30.8145
+B,B6H003,Treur River @ Willemsoord,92,-24.68718,30.81368
+B,B6H004,Blyde River @ Chester,2241,-24.45931,30.82735
+B,B6H005,Blyde River @ Driehoek,2204,-24.51752,30.83174
+B,B6H006,Kranskloofspruit @ Krugerspost,43,-24.92735,30.54655
+B,B6H007,Vyehoek River @ Vygenhoek,86,-24.72481,30.64366
+B,B6H016,Blyde River @ Willemsoord,518,-24.67981,30.80227
+B,B6H017,Blyde River @ Middlesex,,-24.31418,30.8562
+B,B7H001,Klaserie River @ Fleur De Lys,137,-24.55065,31.02645
+B,B7H003,Selati River @ Calais,84,-24.12262,30.35837
+B,B7H004,Klaserie River @ Fleur De Lys,136,-24.55622,31.03225
+B,B7H006,Ngotso River @ Kruger National Park,41,-24.13401,31.6998
+B,B7H007,Olifants River @ Oxford,46583,-24.18473,30.82299
+B,B7H008,Selati River @ Masunga River,832,-24.0094,30.67236
+B,B7H009,Olifants River @ Finale,42472,-24.33116,30.74163
+B,B7H010,Ngwabitsi River @ Harmony,318,-24.035,30.43356
+B,B7H011,Mohlapitse River @ Gemini,262,-24.16429,30.10559
+B,B7H012,Klaserie River @ Casketts,444,-24.33678,31.14673
+B,B7H013,Mohlapitse River @ Mafefes Location,263,-24.17347,30.10274
+B,B7H014,Selati River @ Calais,84,-24.12415,30.35551
+B,B7H015,Olifants River @ Mamba Kruger National Park,49826,-24.06628,31.24288
+B,B7H019,Ga-Selati River @ Loole,2268,-24.03642,31.12821
+B,B7H020,Timbavati River @ Piet Grobler Dam Kruger National Park,935.5,-24.231,31.634
+B,B7H023,Ngwabitsi River @ Tours,58,-24.09263,30.27504
+B,B7H026,Olifants River @ Balule Kruger National Park,53820,-24.05652,31.72091
+B,B8H001,Great-Letaba River @ Redbank,272,-23.89403,30.06948
+B,B8H002,Great-Letaba River @ Manorvlei,658,-23.81737,30.16476
+B,B8H003,Mooketsi River @ Matomahoek,251,-23.55183,30.1592
+B,B8H004,Great-Letaba River @ Lucerne,232,-23.92736,30.04309
+B,B8H005,Broederstroom @ Swallow Falls,17,-23.80209,29.98003
+B,B8H006,Broederstroom @ Clearwaters,38,-23.85514,29.94808
+B,B8H007,Great-Letaba River @ Mahale,4608,-23.67099,30.99006
+B,B8H008,Great-Letaba River @ Letaba Ranch,4710,-23.65837,31.0499
+B,B8H009,Great-Letaba River @ The Junction,851,-23.8793,30.36744
+B,B8H010,Letsitele River @ Mohlabas Location,477,-23.89317,30.35765
+B,B8H012,Madikeleni River @ Fredericksdal,1.15,-23.73404,30.06948
+B,B8H013,Mooketsi River @ Mokeetsi,224,-23.60072,30.09531
+B,B8H014,Great-Letaba River @ Grysappel,294,-23.88001,30.07964
+B,B8H015,Little-Letaba River @ Rossbach,421,-23.22407,30.05364
+B,B8H017,Great-Letaba River @ Prieska,2619,-23.64701,30.71844
+B,B8H018,Letaba River @ Engelhardt dam Kruger National Park,12938,-23.83532,31.63744
+B,B8H019,Tsende River @ Pioneer Dam Kruger National Park,380,-23.52622,31.39772
+B,B8H033,Little-Letaba River @ Locatie Van Tabaan,2988,-23.28101,30.54309
+B,B8H034,Great-Letaba River @ Black Heron Kruger National Park,10652,-23.70217,31.21661
+B,B8H043,Ramadiepa River @ Waterval,88,-23.75071,30.10809
+B,B8H069,Molototsi River @ Modjadjes 424 Lt,,-23.58599,30.34976
+B,B9H001,Shisha River @ Vlakteplaas Kruger National Park,648,-22.83854,31.23709
+B,B9H002,Shingwidzi River @ Silwervis Kruger National Park,810,-23.21628,31.22354
+B,B9H003,Shingwidzi River @ Kanniedood Kruger National Park,4540,-23.14326,31.46262
+B,B9H004,Mphongola River @ Sirheni Kruger National Park,739,-22.95096,31.23374
+B,B9H005,Phugwane River @ Wik-en-Weeg Dam Kruger National Park,542,-23.0427,31.14979
+E,E1H001,Olifants River @ Langkloof,2659,-32.04739,18.82328
+E,E1H002,Tee River @ Thee Rivier,45,-32.80014,19.08689
+E,E1H003,Noordhoeks River @ Misgunst,68,-32.72097,19.06606
+E,E1H004,Boontjies River @ Allendale,61,-32.63125,19.07023
+E,E1H005,Olifants River @ Keerom,532,-32.85291,19.08384
+E,E1H006,Jan Dissels River @ Clanwilliam,160,-32.21166,18.93666
+E,E1H012,Tributary of Noordhoeks River @ Misgunst,,-32.72097,19.06606
+E,E1H013,Olifants River @ Citrusdal,908,-32.59638,19.00833
+E,E1H015,Olifants River @ Rosendaal,,-33.12818,19.23439
+E,E1H018,Olifants River @ Visgat,121,-33.08883,19.21877
+E,E2H001,Doring River @ Elands Drift,3774,-32.54154,19.56857
+E,E2H002,Doring River @ Elands Drift (Aspoort),6903,-32.50277,19.535
+E,E2H003,Doring River @ Melkboom,24044,-31.8625,18.68638
+E,E2H004,Tankwa River @ Elandsvlei,6426,-32.32099,19.58691
+E,E2H005,Little Brak River @ Schoor Kraal,85,-31.93213,19.75775
+E,E2H006,Kruis River @ De Kruis,40,-33.14873,19.37301
+E,E2H007,Leeu River @ Leeuw River,265,-32.78027,19.28333
+E,E2H008,Riet River @ De Naauwte,1178,-32.86097,19.51607
+E,E2H010,Kruis River @ Ebenezer,76,-33.11527,19.3925
+E,E2H011,Doring River @ Melkboom,24044,-31.86046,18.68689
+E,E3H001,Troe-Troe River @ Farm 256,746,-31.62583,18.69472
+E,E3H002,Hantams River @ Brakke Rivier,1731,-31.25877,19.47055
+E,E3H004,Olifants River @ Lutzville,48185,-31.565,18.32777
+T,T1H001,Xuka River @ Caca 45,978,-31.67027,28.11163
+T,T1H002,Mgwali River @ Manzana Loc 13,134,-31.76138,28.00495
+T,T1H004,Bashee River @ Bashee Bridge,4908,-31.92027,28.44777
+T,T1H010,Mgwali River @ Clarkebury,,-31.78777,28.26833
+T,T1H011,Qumanco @ Damane,,-31.77777,27.72083
+T,T1H013,Mbashe @ Gxwali Bomvu,,-31.79966,28.33302
+T,T1H014,Mbashe River @ Rune,,-31.851,28.39269
+T,T1H015,Mbashe @ Rara 34,,-32.00055,28.58166
+T,T2H001,Mtata River @ Dumasi Loc 5,1704,-31.68412,28.88359
+T,T2H003,Mtata River @ Kambi Forest Res.,400,-31.47051,28.61747
+T,T2H010,Cicira River @ Roode Heuvel,295,-31.55666,28.73722
+T,T3H001,Mabele River @ Gladstone,134,-30.29474,28.40497
+T,T3H002,Kinira River @ Kinira Drift,2101,-30.48277,28.62083
+T,T3H003,Tsitsa River @ Halcyon Drift,482,-30.94887,28.45386
+T,T3H004,Mzintlava River @ Slang Fontein,1029,-30.56844,29.42241
+T,T3H005,Tina River @ Mahlungulu,2597,-31.0318,28.8845
+T,T3H006,Tsitsa River @ Xonkonxa,4285,-31.23805,28.85222
+T,T3H007,Mzimvubu River @ Ku-Makhola,6906,-30.86013,29.07125
+T,T3H008,Mzimvubu River @ Kromdraai,2471,-30.57066,29.15016
+T,T3H009,Mooi River @ Maclear,307,-31.07166,28.35361
+T,T3H010,Mzintlava River @ Ndzongiseni Loc. 22,1769,-30.81,29.32277
+T,T3H014,Inxu River @ St Augustine Mission,1134,-31.21944,28.63083
+T,T3H015,Kinira River @ Kinira Drift,2101,-30.48277,28.62083
+T,T3H016,Tsitsa River @ Xonkonxa,4268,-31.23777,28.84611
+T,T3H017,Mzintlava River @ Ludiwana,2703,-31.10427,29.39972
+T,T3H019,Kinira @ Mgungundlovu,3059,-30.77586,29.03221
+T,T3H020,Mzimvubu River @ Ntontela,19273,-31.3955,29.26508
+T,T4H001,Mtamvuna River @ Gundrift,715,-30.73419,29.82869
+T,T5H001,Mzimkulu River @ Umzimkulu,3643,-30.2553,29.94335
+T,T5H002,Bisi River @ Nooitgedacht,867,-30.40372,29.89472
+T,T5H004,Mzimkulu River @ Fp 1609030,545,-29.77713,29.47083
+T,T5H005,Nkonzo River @ Dronkvlei,100,-29.98813,29.85188
+T,T5H006,Mzimkhulwana River @ Oribi Gorge,534,-30.70972,30.27252
+T,T5H007,Mzimkulu River @ Bezweni,3586,-30.24733,29.92908
+T,T5H008,Mvubukazi River @ Embetyuleni,42,-30.26827,29.89483
+T,T6H001,Mntafufu River @ Ntafufu Loc. 35,108,-31.49611,29.5288
+T,T6H004,Xura River @ Xura 27,92.9,-31.32777,29.52666
+T,T7H001,Mngazi River @ Mgwenyana Loc. 22,315,-31.5512,29.2438
