@@ -6,8 +6,8 @@ Code and data for the August 2021 R Workshop is stored in this repository and on
 
 ### Software Installation
 See the instructions for installation on the Wiki (link on the top of the repository) and watch the [installation video](https://youtu.be/8dL-y_1p3Kw).  You will also need to load the tidyverse packages from the consol in RStudio:  
-> install.packages("tidyverse")
-> library(tidyverse)
+> install.packages("tidyverse")  
+> library(tidyverse)  
 
 You only need to run the "install.packages" command once on your computer, but you will need to run the "library" command every time you open R/RStudio.  
 
