@@ -7,7 +7,7 @@ library(lubridate)
 secchi_data <- read.csv('Secchi data 20210317.csv')
 glimpse(secchi_data)
 
-unique(water$Located.on.Feature.Name)
+unique(secchi_data$Located.on.Feature.Name)
 
 #make a dataframe of annual mean secchi depth values
 secchi_clean <- secchi_data %>% 
