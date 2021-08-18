@@ -1,21 +1,17 @@
 # R Workshop
 ## August 2021
 
+### Workshop Logistics
+The workshop is scheduled for:  
+- 18 (Wednesday) to 20 (Friday) August 2021  
+- 09:30 to 16:30 SAST/CAT (early end on Friday)  
+- Online via Zoom  
+
 ### Workshop Materials
-Code and data for the August 2021 R Workshop is stored in this repository.  You can also find resources:
-- code and data on [box](https://duq.box.com/s/a1yop8utknw8oudmhei8mxagl8i5ip5c)  
-- [presentation file](https://duq.box.com/s/witrj1bcrcn3gp2uaejqkw3cdq0znei7)  
-- [live code](https://docs.google.com/document/d/18wsPN6g6jOc0IzNtt6mcCuOskJQg3qOnTF3zznfLf5c/edit?usp=sharing)  
-- additional and updated data: [www.duq.edu/limpopo](https://www.duq.edu/academics/schools/natural-and-environmental-sciences/academics/departments-and-programs/environmental-science-and-management/limpopo-resilience-lab)  
+Code and data for the August 2021 R Workshop is stored in this repository.  Links to additional materials are in the Wiki (link above).  
 
 ### Software Installation
-See the instructions for installation on the Wiki (link on the top of the repository) and watch the [installation video](https://youtu.be/8dL-y_1p3Kw).  You will also need to load the tidyverse packages from the consol in RStudio:  
-> install.packages("tidyverse")  
-> library(tidyverse)  
-
-You only need to run the "install.packages" command once on your computer, but you will need to run the "library" command every time you open R/RStudio.  
+See the instructions for installation on the Wiki (link on the top of the repository) and watch the [installation video](https://youtu.be/8dL-y_1p3Kw).  
 
 ### Acknowledgements
-This course was developed by Max Glines with components based on a course by Rachel Pilla.  It is made available here in conjunction with the report found at [www.duq.edu/limpopo](https://www.duq.edu/academics/schools/natural-and-environmental-sciences/academics/departments-and-programs/environmental-science-and-management/limpopo-resilience-lab).  
-
-This work was supported by the United States Agency for International Development, Southern Africa Regional Mission, Fixed Amount Award 72067419FA00001. This work reflects the work of the authors and does not necessarily reflect the views of USAID or the United States Government.
+This course was developed by Max Glines with components based on a course by Rachel Pilla.  It is made available here in conjunction with the report found at [www.duq.edu/limpopo](https://www.duq.edu/academics/schools/natural-and-environmental-sciences/academics/departments-and-programs/environmental-science-and-management/limpopo-resilience-lab).  This work was supported by the United States Agency for International Development, Southern Africa Regional Mission, Fixed Amount Award 72067419FA00001. This work reflects the work of the authors and does not necessarily reflect the views of USAID or the United States Government.  
