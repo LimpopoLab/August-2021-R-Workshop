@@ -110,3 +110,157 @@ ggplot(water_plot,aes(Year,Value,color=Located.on.Feature.Name))+
 
 
 
+water_cor <- water_all %>% 
+  select(-DOC,-TOC,-Turbidity) %>% 
+  filter(!is.na(Secchi),!is.nan(Chlorophyll),!is.nan(TSS))
+
+install.packages('GGally')
+library(GGally)
+
+ggpairs(water_cor %>% select(-Year))
+
+
+library(adklakedata)
+library(corrplot)
+
+lakes <- adk_data('chem')
+
+lakes_cor <- lakes %>% 
+  select(-PERMANENT_ID,-lake.name,-date,-year,-month)
+
+cor_matrix <- cor(lakes_cor,use='pairwise.complete.obs')
+
+corrplot(cor_matrix,type='lower')
+ggpairs(lakes_cor[complete.cases(lakes_cor),1:10])
+
+
+#Practice solution-----------------------
+library(adklakedata)
+library(tidyverse)
+library(lubridate)
+library(trend)
+
+lake_data <- adk_data('chem')
+
+lake_plot <- lake_data %>% 
+  group_by(year,lake.name) %>% 
+  summarise(pH = mean(pH, na.rm=TRUE))
+
+ggplot(lake_plot,aes(year,pH))+
+  geom_point()+
+  geom_line()+
+  facet_wrap(~lake.name)
+
+ggplot(lake_data,aes(month,DOC,color=lake.name))+
+  geom_line()+
+  facet_wrap(~year,scales='free')
+
+
+
+
+
+
+library(adklakedata)
+library(tidyverse)
+library(lubridate)
+library(trend)
+
+
+###PRACTICE###
+
+#Is there a significant correlation between average Secchi depth and max depth across lakes? 
+#Show the relationship with a plot
+
+secchi <- adk_data('secchi')
+meta <- adk_data('meta')
+
+?merge
+
+#In Big Moose lake, is there a significant difference in the mean org.l across taxa? Include a visual
+
+crust <- adk_data('crustacean')
+
+
+#Is there a significant trend in mean annual surface water temperature (depth of 1 m and less) over time
+#in Windfall lake? Include a visual
+
+temp <- adk_data('tempdo')
+
+
+
+
+
+
+
+
+
+#Is there a significant correlation between average Secchi depth and max depth across lakes? 
+#Show the relationship with a plot
+
+secchi <- adk_data('secchi')
+meta <- adk_data('meta')
+
+?merge
+
+avg_secchi <- secchi %>% 
+  group_by(lake.name) %>% 
+  summarise(secchi = mean(secchi,na.rm=TRUE))
+
+secchi.depth <- merge(avg_secchi,meta)
+
+ggplot(secchi.depth,aes(max.depth, secchi))+
+  geom_point()+
+  geom_smooth(method='lm')
+
+cor(secchi.depth$secchi,secchi.depth$max.depth)
+cor.test(secchi.depth$secchi,secchi.depth$max.depth)
+
+mod <- lm(secchi ~ max.depth, data = secchi.depth)
+summary(mod)
+
+#In Big Moose lake, is there a significant difference in the mean org.l across taxa? Include a visual
+crust <- adk_data('crustacean')
+
+unique(crust$Taxa)
+
+crust_clean <- crust %>% 
+  filter(lake.name == 'Big Moose')
+
+ggplot(crust_clean,aes(org.l))+
+  geom_density()+
+  facet_wrap(~Taxa,scales='free')
+
+kruskal <- kruskal.test(org.l ~ Taxa, data = crust_clean)
+kruskal
+
+library(FSA)
+
+dunnTest(org.l ~ Taxa,
+         data=crust_clean,
+         method="bonferroni")
+
+ggplot(crust_clean, aes(x = Taxa, y = log(org.l)))+
+  geom_boxplot()
+
+#Is there a significant trend in mean annual surface water temperature (depth of 1 m and less) over time
+#in Windfall lake? Include a visual
+
+temp <- adk_data('tempdo')
+
+temp_surface <- temp %>% 
+  filter(depth <= 1, lake.name == 'Windfall') %>% 
+  mutate(Date = as.Date(date),
+         Year = year(Date)) %>% 
+  group_by(Year) %>% 
+  summarise(temp = mean(temp,na.rm=T))
+
+library(trend)
+
+sens.slope(temp_surface$temp)
+
+ggplot(temp_surface,aes(Year,temp))+
+  geom_point()+
+  geom_smooth(method='lm')
+
+mod <- lm(temp ~ Year, data = temp_surface)
+summary(mod)
