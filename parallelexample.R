@@ -21,8 +21,7 @@ print(s1)
 # 1.312   0.619   1.968
 
 # Parallel
-library(parallel)
-library(doParallel)
+library(doParallel) # loads parallel and foreach
 registerDoParallel(detectCores())
 rm(z)
 p2 <- system.time({
